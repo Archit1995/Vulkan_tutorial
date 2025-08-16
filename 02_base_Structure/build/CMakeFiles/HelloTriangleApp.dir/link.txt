@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/HelloTriangleApp.dir/src/main.cpp.o CMakeFiles/HelloTriangleApp.dir/src/HelloTriangleApp.cpp.o  -o HelloTriangleApp  -lglfw -lvulkan -ldl -lpthread -lX11 -lXxf86vm -lXrandr -lXi 

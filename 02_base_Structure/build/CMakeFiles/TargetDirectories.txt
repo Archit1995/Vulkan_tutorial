@@ -1,0 +1,3 @@
+/home/archit/vulkan_tutorial/02_base_Structure/build/CMakeFiles/rebuild_cache.dir
+/home/archit/vulkan_tutorial/02_base_Structure/build/CMakeFiles/edit_cache.dir
+/home/archit/vulkan_tutorial/02_base_Structure/build/CMakeFiles/HelloTriangleApp.dir
